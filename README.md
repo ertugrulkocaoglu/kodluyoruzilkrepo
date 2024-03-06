@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](www.google.com) Front-End Eğitiminde oluşturduğumuz ilk 
 Öncelikle projeyi clonelayın.
 
 ```
-git clone https://github.com/ertugrulkocaoglu/kodluyoruzilkrepo
+https://github.com/ertugrulkocaoglu/kodluyoruzilkrepo
 ```
 
 ## Usage
