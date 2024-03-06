@@ -7,6 +7,8 @@ https://app.patika.dev/emirhant
 
 Bu repo [Kodluyoruz](www.google.com) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor
 
+![github](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın.
